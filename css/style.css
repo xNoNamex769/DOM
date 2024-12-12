@@ -1,0 +1,62 @@
+body {
+    background-image: url('../img/img.jpg');
+    background-size: cover;  
+    background-position: center; 
+    background-attachment: fixed;  
+    background-repeat: no-repeat; 
+    height: 100vh;
+}
+header {
+    background-color: #aa0f0f;
+    color: white;
+    padding: 20px 0;
+
+}
+
+h1 {
+    margin: 0;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+table {
+    margin-top: 20px;
+    width: 100%;
+}
+
+th, td {
+    text-align: center;
+    padding: 12px;
+}
+
+th {
+    background-color: #007bff;
+    color: white;
+}
+
+td {
+    background-color: #ffffff;
+}
+
+
+button {
+    margin: 5px;
+}
+
+.modal-content {
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.modal-header {
+    background-color: #aa0f0f;
+    color: white;
+}
+
+section button:hover {
+    background-color: #0056b3;
+}
+
